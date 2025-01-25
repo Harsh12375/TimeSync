@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TimeSync - Smart Meeting Scheduler
 
 TimeSync is a modern web application that helps teams schedule meetings across different time zones. It automatically suggests optimal meeting times based on participants' time zones and working hours.
