@@ -69,14 +69,6 @@ src/
 └── main.tsx         # Application entry point
 ```
 
-## Key Technologies
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- React Router
-- Lucide Icons
-- Vite
 
 ## Development
 
@@ -86,13 +78,6 @@ src/
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
-
-### Code Style
-
-This project uses:
-- TypeScript for type safety
-- ESLint for code linting
-- Prettier for code formatting
 
 ## Contributing
 
@@ -105,12 +90,6 @@ This project uses:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Cursor light effect inspired by modern web design trends
-- Time zone handling powered by the JavaScript Intl API
-- Icons provided by [Lucide](https://lucide.dev/)
 =======
 # TimeSync
 A web application designed to simplify meeting scheduling across multiple time zones. Features include dynamic time zone detection, automated meeting time prediction, an interactive dark-themed UI, and email notifications, built using React.js, JavaScript, and CSS, with deployment on Vercel.
