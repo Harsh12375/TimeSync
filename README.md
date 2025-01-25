@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TimeSync - Smart Meeting Scheduler
 
 TimeSync is a modern web application that helps teams schedule meetings across different time zones. It automatically suggests optimal meeting times based on participants' time zones and working hours.
@@ -111,3 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Cursor light effect inspired by modern web design trends
 - Time zone handling powered by the JavaScript Intl API
 - Icons provided by [Lucide](https://lucide.dev/)
+=======
+# TimeSync
+A web application designed to simplify meeting scheduling across multiple time zones. Features include dynamic time zone detection, automated meeting time prediction, an interactive dark-themed UI, and email notifications, built using React.js, JavaScript, and CSS, with deployment on Vercel.
+>>>>>>> cbc800ceacb42893d63a8987c1bef8b5b7ec9fdf
