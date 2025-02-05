@@ -64,16 +64,6 @@ The application will start and be available at `http://localhost:5173` (or anoth
 - Edit or delete meetings as needed
 - View meeting details including local times for all participants
 
-## Project Structure
-
-```
-src/
-├── components/        # Reusable UI components
-├── context/          # React context providers
-├── pages/            # Main application pages
-└── main.tsx         # Application entry point
-```
-
 ## Key Technologies
 
 - React 18
