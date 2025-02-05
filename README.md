@@ -2,7 +2,6 @@
 
 TimeSync is a modern web application that helps teams schedule meetings across different time zones. It automatically suggests optimal meeting times based on participants' time zones and working hours.
 
-![TimeSync Screenshot](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=2340)
 
 ![image](https://github.com/user-attachments/assets/7b5a2756-a3d1-4a61-bad3-dc2b86e5b856)
 ![image](https://github.com/user-attachments/assets/d4f435e8-172b-4bd9-bef4-f03ac0793a05)
