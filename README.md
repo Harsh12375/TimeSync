@@ -28,7 +28,7 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Harsh12375/TimeSync>
 cd timesync
 ```
 
