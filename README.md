@@ -4,6 +4,12 @@ TimeSync is a modern web application that helps teams schedule meetings across d
 
 ![TimeSync Screenshot](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=2340)
 
+![image](https://github.com/user-attachments/assets/7b5a2756-a3d1-4a61-bad3-dc2b86e5b856)
+![image](https://github.com/user-attachments/assets/d4f435e8-172b-4bd9-bef4-f03ac0793a05)
+![image](https://github.com/user-attachments/assets/6defcc8c-810a-4a44-9ba9-cc28c684ab92)
+![Screenshot 2025-02-05 225212](https://github.com/user-attachments/assets/7977003f-fb15-4dca-98f7-b18e4b982f08)
+![Screenshot 2025-02-05 225238](https://github.com/user-attachments/assets/54e1e2e3-18fc-4c8e-9882-acc8606a5bc7)
+
 ## Features
 
 - 🌍 Smart time zone handling
